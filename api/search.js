@@ -15,7 +15,7 @@ export default async function handler(req, res) {
         return res.send("#EXTM3U\n#EXTINF:-1,Search min 3 chars\nhttp://google.com");
     }
 
-    const host = "http://datahub11.com";
+    const host = "http://fastshare1.com:8080/";
     const username = "Anthony2";
     const password = "Anthony123";
 
