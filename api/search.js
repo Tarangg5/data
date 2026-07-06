@@ -16,8 +16,8 @@ export default async function handler(req, res) {
     }
 
     const host = "http://fastshare1.com:8080/";
-    const username = "Anthony2";
-    const password = "Anthony123";
+    const username = "0AEHQ64ukI";
+    const password = "50yxz17DyG";
 
     let action = 'get_live_streams';
     if (type === 'vod') action = 'get_vod_streams';
